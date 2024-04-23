@@ -13,5 +13,7 @@ Le serveur gère les connexions entrantes des clients et enregistre les activit�
 Utilisez le `Makefile` fourni pour compiler et exécuter le jeu :
 ```bash
 make wordle
-
+```
+```bash
 ./wordle
+```
